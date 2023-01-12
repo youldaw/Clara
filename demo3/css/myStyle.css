@@ -1,0 +1,30 @@
+.card-title {
+    margin-bottom: 30px;
+}
+.card-title .date-picker,
+.card-title .export-btn {
+    margin-right: 5px;
+}
+.card-title .date-picker .form-control {
+    max-width: 205px;
+}
+.card-title .table-top-info {
+    display: flex;
+    align-items: center;
+}.card-title .table-top-info p {
+    margin: 0 10px 0 0;
+    padding-right: 10px;
+    border-right: 1px solid ;
+}
+.card-title .table-top-info p:last-child {
+    margin-right: 0;
+    padding-right: 0;
+    border: none;
+}
+.card-title .table-top-search .form-control {
+    max-width: 205px;
+}
+
+.navbar-help .menu-link {
+    font-weight: 500;
+}
